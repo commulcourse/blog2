@@ -48,4 +48,3 @@
             </div>
         </div>
     </nav>
-            <%@ include file="../layout/footer.jsp" %>
