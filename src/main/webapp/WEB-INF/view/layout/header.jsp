@@ -4,7 +4,7 @@
         <html lang="en">
 
        <head>
-    <title>Bootstrap Example</title>
+    <title>bolg</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -32,7 +32,7 @@
                         <a class="nav-link" href="/joinForm">회원가입</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/board/writeForm">글쓰기</a>
+                        <a class="nav-link" href="/board/saveForm">글쓰기</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/user/updateForm">회원정보</a>
@@ -42,7 +42,7 @@
                     </li>
                 </ul>
                 <div>
-                    <a href="/user/profileupdate"><img src="images/profile.jpg" style="width: 35px;"
+                    <a href="/user/profileupdate"><img src="/images/profile.jpg" style="width: 35px;"
                             class="rounded-circle" alt="Cinque Terre"></a>
                 </div>
             </div>

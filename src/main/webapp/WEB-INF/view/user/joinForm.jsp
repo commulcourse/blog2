@@ -2,7 +2,7 @@
     <%@ include file="../layout/header.jsp" %>
  <div class="container my-3">
         <div class="container">
-            <form action="/join" method="post" onsubmit="return valid()">
+            <form action="/joinForm" method="post" onsubmit="return valid()">
                 <div class="form-group mb-2">
                     <input type="text" name="username" class="form-control" placeholder="Enter username" id="username">
                 </div>
